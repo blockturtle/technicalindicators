@@ -1,6 +1,6 @@
 {
   "name": "technicalindicators",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Techincal Indicators written in javascript",
   "main": "dist/index.js",
   "module": "lib/index.js",
@@ -123,6 +123,7 @@
     "babel-register": "^6.8.0",
     "babel-runtime": "^6.23.0",
     "chai": "^3.0.0",
+    "canvas": "^2.11.2",
     "draw-candlestick": "2.0.3",
     "dts-bundle": "^0.7.3",
     "gulp": "^3.9.1",
