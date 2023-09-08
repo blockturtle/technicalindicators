@@ -130,41 +130,41 @@ SMA.calculate({period : 5, values : [1,2,3,4,5,6,7,8,9]});
 
 # CandleStick Pattern
 
-1. [Abandoned Baby](https://runkit.com/anandaravindan/abandoned-baby).
-1. [Bearish Engulfing Pattern](https://runkit.com/aarthiaradhana/bearishengulfingpattern).
-1. [Bullish Engulfiing Pattern](https://runkit.com/aarthiaradhana/bullishengulfingpattern).
-1. [Dark Cloud Cover](https://runkit.com/aarthiaradhana/darkcloudcover).
-1. [Downside Tasuki Gap](https://runkit.com/aarthiaradhana/downsidetasukigap).
-1. [Doji](https://runkit.com/aarthiaradhana/doji).
-1. [DragonFly Doji](https://runkit.com/aarthiaradhana/dragonflydoji).
-1. [GraveStone Doji](https://runkit.com/aarthiaradhana/gravestonedoji).
-1. [BullishHarami](https://runkit.com/aarthiaradhana/bullishharami).
-1. [Bearish Harami Cross](https://runkit.com/aarthiaradhana/bearishharamicross).
-1. [Bullish Harami Cross](https://runkit.com/aarthiaradhana/bullishharamicross).
-1. [Bullish Marubozu](https://runkit.com/aarthiaradhana/bullishmarubozu).
-1. [Bearish Marubozu](https://runkit.com/aarthiaradhana/bearishmarubozu).
-1. [Evening Doji Star](https://runkit.com/aarthiaradhana/eveningdojistar).
-1. [Evening Star](https://runkit.com/aarthiaradhana/eveningstar).
-1. [Bearish Harami](https://runkit.com/aarthiaradhana/bearishharami).
-1. [Piercing Line](https://runkit.com/aarthiaradhana/piercingline).
-1. [Bullish Spinning Top](https://runkit.com/aarthiaradhana/bullishspinningtop).
-1. [Bearish Spinning Top](https://runkit.com/aarthiaradhana/bearishspinningtop).
-1. [Morning Doji Star](https://runkit.com/aarthiaradhana/morningdojistar).
-1. [Morning Star](https://runkit.com/aarthiaradhana/morningstar).
-1. [Three Black Crows](https://runkit.com/aarthiaradhana/threeblackcrows).
-1. [Three White Soldiers](https://runkit.com/aarthiaradhana/threewhitesoldiers).
-1. [Bullish Hammer](https://runkit.com/nerdacus/technicalindicator-bullishhammer).
-1. [Bearish Hammer](https://runkit.com/nerdacus/technicalindicator-bearishhammer).
-1. [Bullish Inverted Hammer](https://runkit.com/nerdacus/technicalindicator-bullishinvertedhammer).
-1. [Bearish Inverted Hammer](https://runkit.com/nerdacus/technicalindicator-bearishinvertedhammer).
-1. [Hammer Pattern](https://runkit.com/nerdacus/technicalindicator-hammerpattern).
-1. [Hammer Pattern (Unconfirmed)](https://runkit.com/nerdacus/technicalindicator-hammerpatternunconfirmed).
-1. [Hanging Man](https://runkit.com/nerdacus/technicalindicator-hangingman).
-1. [Hanging Man (Unconfirmed)](https://runkit.com/nerdacus/technicalindicator-hangingmanunconfirmed).
-1. [Shooting Star](https://runkit.com/nerdacus/technicalindicator-shootingstar).
-1. [Shooting Star (Unconfirmed)](https://runkit.com/nerdacus/technicalindicator-shootingstarunconfirmed).
-1. [Tweezer Top](https://runkit.com/nerdacus/technicalindicator-tweezertop).
-1. [Tweezer Bottom](https://runkit.com/nerdacus/technicalindicator-tweezerbottom).
+1. [Abandoned Baby弃婴形态](https://runkit.com/anandaravindan/abandoned-baby).
+2. [Bearish Engulfing Pattern 看跌吞没](https://runkit.com/aarthiaradhana/bearishengulfingpattern).
+3. [Bullish Engulfiing Pattern 看涨吞没](https://runkit.com/aarthiaradhana/bullishengulfingpattern).
+4. [Dark Cloud Cover 乌云盖顶](https://runkit.com/aarthiaradhana/darkcloudcover).
+5. [Downside Tasuki Gap 下行田村缺口](https://runkit.com/aarthiaradhana/downsidetasukigap).
+6. [Doji 十字星](https://runkit.com/aarthiaradhana/doji).
+7. [DragonFly Doji 蜻蜓十字星](https://runkit.com/aarthiaradhana/dragonflydoji).
+8. [GraveStone Doji 墓碑十字星](https://runkit.com/aarthiaradhana/gravestonedoji).
+9. [BullishHarami 看涨孕线](https://runkit.com/aarthiaradhana/bullishharami).
+10. [Bearish Harami Cross 看跌孕线十字](https://runkit.com/aarthiaradhana/bearishharamicross).
+11. [Bullish Harami Cross 看涨孕线十字](https://runkit.com/aarthiaradhana/bullishharamicross).
+12. [Bullish Marubozu 看涨实心](https://runkit.com/aarthiaradhana/bullishmarubozu).
+13. [Bearish Marubozu 看跌实心](https://runkit.com/aarthiaradhana/bearishmarubozu).
+14. [Evening Doji Star 黄昏十字星](https://runkit.com/aarthiaradhana/eveningdojistar).
+15. [Evening Star 黄昏星](https://runkit.com/aarthiaradhana/eveningstar).
+16. [Bearish Harami 看跌孕线](https://runkit.com/aarthiaradhana/bearishharami).
+17. [Piercing Line 刺透线](https://runkit.com/aarthiaradhana/piercingline).
+18. [Bullish Spinning Top 看涨纺锤头](https://runkit.com/aarthiaradhana/bullishspinningtop).
+19. [Bearish Spinning Top 看跌纺锤头](https://runkit.com/aarthiaradhana/bearishspinningtop).
+20. [Morning Doji Star 早晨十字星](https://runkit.com/aarthiaradhana/morningdojistar).
+21. [Morning Star 早晨之星](https://runkit.com/aarthiaradhana/morningstar).
+22. [Three Black Crows 三只乌鸦](https://runkit.com/aarthiaradhana/threeblackcrows).
+23. [Three White Soldiers 三只白兵](https://runkit.com/aarthiaradhana/threewhitesoldiers).
+24. [Bullish Hammer 看涨锤子线](https://runkit.com/nerdacus/technicalindicator-bullishhammer).
+25. [Bearish Hammer 看跌锤子线](https://runkit.com/nerdacus/technicalindicator-bearishhammer).
+26. [Bullish Inverted Hammer 看涨倒锤子线](https://runkit.com/nerdacus/technicalindicator-bullishinvertedhammer).
+27. [Bearish Inverted Hammer 看跌倒锤子线](https://runkit.com/nerdacus/technicalindicator-bearishinvertedhammer).
+28. [Hammer Pattern 锤子形态](https://runkit.com/nerdacus/technicalindicator-hammerpattern).
+29. [Hammer Pattern (Unconfirmed) 锤子形态（未确认）](https://runkit.com/nerdacus/technicalindicator-hammerpatternunconfirmed).
+30. [Hanging Man 上吊线](https://runkit.com/nerdacus/technicalindicator-hangingman).
+31. [Hanging Man (Unconfirmed) 上吊线（未确认）](https://runkit.com/nerdacus/technicalindicator-hangingmanunconfirmed).
+32. [Shooting Star 流星线](https://runkit.com/nerdacus/technicalindicator-shootingstar).
+33. [Shooting Star (Unconfirmed) 流星线（未确认）](https://runkit.com/nerdacus/technicalindicator-shootingstarunconfirmed).
+34. [Tweezer Top 顶部钳形线](https://runkit.com/nerdacus/technicalindicator-tweezertop).
+35. [Tweezer Bottom 底部钳形线](https://runkit.com/nerdacus/technicalindicator-tweezerbottom).
 
 or
 
